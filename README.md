@@ -1,2 +1,0 @@
-# variants
-Created with CodeSandbox
